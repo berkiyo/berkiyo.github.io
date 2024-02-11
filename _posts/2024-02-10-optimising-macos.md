@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Optimising macOS workflow, as a Linux user"
+title:  "Optimising macOS workflow"
 date:   2024-02-10 13:10:00 +1100
 categories: macos
 ---
