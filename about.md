@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+## Writer
+I write technical articles that are both inspiring and educational. Topics range from how-to guides in tech to thoughts and insights on productivity.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+## System Administration
+Sharing my knowledge in the world of Linux and Windows system administration. From improving your workflow to resolving complex issues.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+## App Development
+Using the latest iOS and Android development technologies, I aim to create pleasant and easy to use mobile applications for all niches.
